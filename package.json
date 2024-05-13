@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/news",
+  "version": "1.0.0",
+  "description": "News API is a simple tool for scraping news data. It returns the news title, description, and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/news-API.git"
+  },
+  "keywords": [
+    "news"," news data"," news scraper"," news api"," news data scraper"," news data extraction"," news data extraction api"," news data extraction tool"," news data extraction software"," news data extraction service"," news data extraction library"," news data extraction sdk"," news data extraction code"," news data extraction script"," news data extraction program"," news data extraction application"," news data extraction app"," news data extraction tool"," news data extraction utility"," news data extraction helper"," news data extraction helper tool"," news data extraction helper software"," news data extraction helper service"," news data extraction helper library"," news data extraction helper sdk"," news data extraction helper code"," news data extraction helper script"," news data extraction helper program"," news data extraction helper application"," news data extraction helper app"," news data extraction helper tool"," news data extraction helper utility"," news data extraction helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/news-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/news-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
