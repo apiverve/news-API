@@ -11,7 +11,7 @@
     "url": "git+https://github.com/apiverve/news-API.git"
   },
   "keywords": [
-    "news"," news data"," news scraper"," news api"," news data scraper"," news data extraction"," news data extraction api"," news data extraction tool"," news data extraction software"," news data extraction service"," news data extraction library"," news data extraction sdk"," news data extraction code"," news data extraction script"," news data extraction program"," news data extraction application"," news data extraction app"," news data extraction tool"," news data extraction utility"," news data extraction helper"," news data extraction helper tool"," news data extraction helper software"," news data extraction helper service"," news data extraction helper library"," news data extraction helper sdk"," news data extraction helper code"," news data extraction helper script"," news data extraction helper program"," news data extraction helper application"," news data extraction helper app"," news data extraction helper tool"," news data extraction helper utility"," news data extraction helper"
+    "news","news data","news scraper","news api","news data scraper"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
@@ -27,6 +27,6 @@
   "dependencies": {
     "node-fetch": "3.3.2",
     "promise": "^7.1.1",
-    "request": "^2.69.0"
+    "axios": "^0.15.3"
   }
 }
