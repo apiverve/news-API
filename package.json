@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/news",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "description": "News API is a simple tool for scraping news data. It returns the news title, description, and more.",
   "main": "index.js",
   "scripts": {
